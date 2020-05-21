@@ -1,0 +1,3 @@
+﻿  WordCount1.cpp
+D:\VS实践项目\WordCount1\WordCount1\WordCount1.cpp(5,34): warning C4083: 应输入“newline”；找到标识符“；”
+  WordCount1.vcxproj -> D:\VS实践项目\WordCount1\x64\Debug\WordCount1.exe
